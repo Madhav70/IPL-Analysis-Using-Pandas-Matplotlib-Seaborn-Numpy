@@ -75,5 +75,5 @@ rcb=match_1[match_1['inning']==2]
 rcb['batsman_runs'].value_counts()
 rcb['dismissal_kind'].value_counts()
 
-import github
+
 
